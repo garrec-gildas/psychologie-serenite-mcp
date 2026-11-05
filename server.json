@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.psychologieetserenite/catalogue",
+  "description": "Lecture seule : tests psy, livres, blog, ScanMyLove, ScanMyJob et rendez-vous visio (FR/EN/ES/PT).",
+  "title": "Psychologie & Sérénité",
+  "version": "1.1.1",
+  "websiteUrl": "https://psychologieetserenite.com/developer",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://psychologieetserenite.com/mcp"
+    }
+  ]
+}
