@@ -1,0 +1,10 @@
+{
+  "name": "psychologie-serenite",
+  "version": "1.0.0",
+  "description": "Public read-only catalogue of Psychologie & Sérénité: psychology self-assessment tests, books, blog articles and services (FR/EN/ES/PT). No account needed.",
+  "mcpServers": {
+    "psychologie-serenite": {
+      "httpUrl": "https://psychologieetserenite.com/mcp?via=gemini"
+    }
+  }
+}
